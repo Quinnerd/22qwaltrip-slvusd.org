@@ -1,0 +1,4 @@
+leader = "OrionOth"
+mem1 = "Quinnerd"
+mem2 = "eggo-waffle"
+print(leader + 'says:\"Hello World!\"')
